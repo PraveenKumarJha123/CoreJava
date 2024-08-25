@@ -1,0 +1,13 @@
+class Test6{
+public static void main(String str[]){
+
+
+System.out.println(new Student().name="Sri" );
+
+System.out.println(new Student().name );
+}
+}
+
+class Student{
+String name;
+}
